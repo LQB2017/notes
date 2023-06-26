@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "38565f2fa3b0a296",
+    "type": "split",
+    "children": [
+      {
+        "id": "8685fca268f11fcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5757b30791fcdb52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f2b72ed9a492a38",
+    "type": "split",
+    "children": [
+      {
+        "id": "445c3843021c992c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c56ad36e06da7110",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d8f8b23ccbb5cf65",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "820ea2e66af4323e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0815de634be96652",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2dc01b4ad14a939",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6e172293ad2ce51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7c16c0e4b435ed8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c29fe38333487d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "15da28c379ab0653",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "5757b30791fcdb52",
+  "lastOpenFiles": [
+    "CNAME",
+    "docs/管理经济学/管理经济学.md",
+    "docs/管理经济学/新建 文本文档.txt",
+    "docs/管理经济学/数据结构导论.xmind",
+    "docs/数据结构导论/第四章 树和二叉树.md",
+    "docs/数据结构导论/第六章 查找.md",
+    "docs/数据结构导论/第五章 图.md",
+    "docs/数据结构导论/第二章 线性表.md",
+    "docs/数据结构导论/第三章 栈、队列和数组.md",
+    "docs/数据结构导论/第七章 排序.md",
+    "docs/数据结构导论/第一章 概论.md",
+    "docs/数据结构导论/数据结构导论.md",
+    "docs/数据库系统原理/数据库系统原理.md",
+    "docs/信息系统开发与管理/学习目标.md",
+    "docs/信息系统开发与管理/信息系统开发与管理.md",
+    "docs/_media/树的表示方法.png",
+    "docs/_media/数据的逻辑结构.png",
+    "docs/_media/存储结构.png",
+    "docs/_media/函数增长率.png",
+    "docs/_media/二叉树五种基本形态.png",
+    "docs/_media/cim.jpeg",
+    "docs/_media/Drawing 2023-01-29 20.15.59.excalidraw.svg",
+    "docs/_media/Drawing 2023-01-29 20.15.59.excalidraw.md",
+    "docs/网络经济与企业管理",
+    "docs/管理经济学",
+    "docs/数据结构导论",
+    "docs/数据库系统原理",
+    "docs/信息系统开发与管理",
+    "docs/index.html",
+    "docs/_media",
+    "docs/README.md",
+    "docs/CNAME",
+    "docs/网络经济与企业管理/README.md"
+  ]
+}
