@@ -2,8 +2,8 @@
 layout: home
 
 hero:
-  name: "own"
-  tagline: 自己的知识库  
+  name: "Own Notes"
+  tagline: 自己的笔记  
 
 features:
   - title: 计算机组成原理
