@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  cleanUrls: true,
   base: '/notes/',
   title: "own",
   description: "My own",
