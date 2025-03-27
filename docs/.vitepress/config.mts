@@ -3,8 +3,8 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   cleanUrls: true,
   base: '/notes/',
-  title: "own",
-  description: "My own",
+  title: "Own Notes",
+  description: "自己的笔记",
   themeConfig: {
     docFooter: {
       prev: '上一页',
