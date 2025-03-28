@@ -7,7 +7,7 @@
 <div class="timeline-item">
   <div class="timeline-date">2025-03-28</div>
   <div class="timeline-content">
-    <p>📚 添加 <a href="zikao/自学考试">自学考试</a> 攻略</p>
+    <p>📚 添加 <a href="other/自学考试">自学考试</a> 攻略</p>
     <p>🔍 添加 <a href="cs/data-structures-algorithms/数据结构与算法">数据结构与算法</a> 攻略</p>
     <p>💻 添加 <a href="cs/computer-organization/计算机组成原理">计算机组成原理</a> 攻略</p>
     <p>⚙️ 添加 <a href="cs/os/操作系统">操作系统</a> 攻略</p>
@@ -18,6 +18,7 @@
     <p>📈 添加 <a href="java/advanced/Java进阶">Java进阶</a> 攻略</p>
     <p>🔧 添加 <a href="java/framework/Java框架">Java框架</a> 攻略</p>
     <p>🎨 添加 <a href="java/design/设计模式与架构">设计模式与架构</a> 攻略</p>
+    <p>📚 添加 <a href="other/零基础学习英语">零基础学习英语</a> 攻略</p>
   </div>
 </div>
 
