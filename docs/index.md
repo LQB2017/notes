@@ -8,7 +8,7 @@ hero:
 features:
   - title: 数据结构与算法
     icon: 🔍
-    link: /cs/data-structures-algorithms/datastructure/array
+    link: /cs/data-structures-algorithms/数据结构与算法
   - title: 计算机组成原理
     icon: 💻
     link: /cs/computer-organization/计算机组成原理
