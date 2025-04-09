@@ -36,5 +36,8 @@ features:
   - title: 设计模式与架构
     icon: 🏗
     link: /java/design/设计模式与架构
+  - title: 自考
+    icon: 📝
+    link: /other/zikao/自学考试
 ---
 

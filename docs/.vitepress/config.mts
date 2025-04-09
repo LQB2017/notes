@@ -123,6 +123,20 @@ export default defineConfig({
           ]
         }
       ],
+      'other/zikao/': [
+        {
+          text: '自考',
+          items: [
+            { text: '自学考试', link: '/other/zikao/自学考试' }
+          ]
+        },
+        {
+          text: '02323 操作系统概论',
+          items: [
+            { text: '第四章 内存管理', link: '/other/zikao/02323/第四章 内存管理' }
+          ]
+        }
+      ]
     },
 
     socialLinks: [
