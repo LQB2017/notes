@@ -38,7 +38,6 @@ export default defineConfig({
     },
     nav: [
       { text: '首页', link: '/' },
-      { text: '知识地图', link: '/mindmap' },
       { text: '时间线', link: '/timeline' }
     ],
 
@@ -137,10 +136,6 @@ export default defineConfig({
           ]
         }
       ]
-    },
-
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+    }
   }
 })
