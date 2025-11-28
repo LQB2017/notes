@@ -192,9 +192,9 @@ export default defineConfig({
           ]
         },
       ],
-      '/自考/PETS三级/': [
-        { text: '概述', link: '/自考/PETS三级' }
-      ],
+      // '/自考/PETS三级/': [
+      //   { text: '概述', link: '/自考/PETS三级' }
+      // ],
     }
   }
 })

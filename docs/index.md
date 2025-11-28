@@ -39,9 +39,9 @@ features:
   - title: 自考
     icon: 👨🏻‍🎓
     link: /自考
-  - title: 英语
-    icon: 🇬🇧
-    link: /英语
+  # - title: 英语
+  #   icon: 🇬🇧
+  #   link: /英语
   - title: 书法
     icon: 🖌️
     link: /书法
