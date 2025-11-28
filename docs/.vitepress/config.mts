@@ -36,11 +36,6 @@ export default defineConfig({
         }
       }
     },
-    nav: [
-      { text: '首页', link: '/' },
-      { text: '时间线', link: '/timeline' }
-    ],
-
     sidebar: {
       '/cs/data-structures-algorithms/': [
         {
