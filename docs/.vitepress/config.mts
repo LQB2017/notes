@@ -36,6 +36,9 @@ export default defineConfig({
         }
       }
     },
+    nav: [
+      { text: '时间线', link: '/timeline' }
+    ],
     sidebar: {
       '/cs/data-structures-algorithms/': [
         {
