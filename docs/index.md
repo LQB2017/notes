@@ -48,5 +48,8 @@ features:
   - title: 健身
     icon: 💪
     link: /健身
+  - title: 其他
+    icon: 🔧
+    link: /其他
 ---
 
